@@ -1,10 +1,7 @@
 This App is an app to visualise Mohr Circle in 3-D
 Made by - Rwik Rana, Yash Meshram
 
-#############################################################
-####### HOW TO USE via EXE ##################################
-#############################################################
-
+# HOW TO USE via EXE #
 To run the executable form of the app, 
 1. Go to build
 2. GO to exe.win-amd64-3.8
@@ -12,9 +9,7 @@ To run the executable form of the app,
 
 The app would start!!
 
-#############################################################
-####### HOW TO USE via Python ###############################
-#############################################################
+# HOW TO USE via Python #
 Python Dependencies required:
 1. Python 3.4 + 
 2. Matplotlib
